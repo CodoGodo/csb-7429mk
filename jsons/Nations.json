@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Mod Land",
+		"leaderName": "Tsugumi",
+		"adjective": ["Otaku"],
+          "startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": "hax, hax, HAX",
+		"declaringWar": "get rekd!",
+		"attacked": "THES IS SPARt... i mean Hack Land",
+		"defeated": "oh well, i guess ill make some more QAnon...",
+		"introduction": "how much code does it make to make you?",
+		"neutralHello": "yo",
+		"hateHello": "oh..you, tell me what you want",
+		"tradeRequest": "It appears that you have a gigabyte of interest",
+		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
+		"outerColor": [250,0,0],
+		"innerColor": [0,250,0], 
+		"uniqueName": "The way of the Hack Lords",
+		"uniques": ["[-100]% Culture cost of adopting new Policies", "[-100]% maintenance costs <for [All] units>", "[Gold] cost of purchasing [All] units [-100]%", "[Gold] cost of purchasing [All] buildings [-100]%", "[-100]% maintenance on road & railroads", "May not generate great prophet equivalents naturally", "[+99999]% growth [in all cities]", "May buy [All] buildings for [0] [Culture] [in all cities]", "May buy [All] units for [0] [Culture] [in all cities]", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from every specialist [in all cities]", "[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from [All] tiles [in all cities]", "[99999]% Golden Age length", "[-99999]% tile improvement construction time", "Quantity of strategic resources produced by the empire +[99999]%", "[-99999]% unhappiness from population [in all cities]", "[+99999]% [Production] [in all cities]", "[+99999]% [Food] [in all cities]", "[+99999]% [Gold] [in all cities]", "[+99999]% [Science] [in all cities]", "[+99999]% [Faith] [in all cities]", "[+99999]% [Culture] [in all cities]"]
+}
+]

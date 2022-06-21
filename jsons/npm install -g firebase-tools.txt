@@ -1,0 +1,16 @@
+npm install -g firebase-tools
+**
+firebas logine 
+**
+firebase init
+**
+{
+  "hosting": {
+    "site": "do-crosby",
+    "public": "public",
+    ...
+  }
+}
+**
+firebase deploy --only hosting:do-crosby
+
